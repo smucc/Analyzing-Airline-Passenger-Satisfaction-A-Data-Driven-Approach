@@ -1,2 +1,6 @@
 # Analyzing-Airline-Passenger-Satisfaction-A-Data-Driven-Approach
-We analyzed airline passenger satisfaction using a data-driven approach and a diverse dataset from Kaggle. We identified key factors such as departure delay, class, and check-in service significantly impacting customer satisfaction. 
+Our project analyzes airline passenger satisfaction using a dataset of customer feedback. We preprocess the data, explore crucial factors, and use regression models and classifiers to identify pivotal features and predict satisfaction. Our findings provide actionable insights for the airline industry.
+
+The data was preprocessed, handling missing values, encoding variables, and addressing outliers. Exploratory data analysis revealed significant relationships, especially in departure delay, class, and overall satisfaction. Using various predictive models, the project achieved an accuracy of 97%. After hyperparameter tuning, the models successfully understood and forecasted passenger satisfaction dynamics. These outcomes validate our analytical approach.
+
+Our analysis found that departure delays, class, and check-in service affect passenger satisfaction. Using advanced machine learning models, we identified patterns in satisfaction and provided actionable insights for airlines. By implementing targeted strategies informed by our models, airlines can optimize their operations, mitigate delays, and enhance services. Our data-driven initiatives promise to improve overall service quality and elevate the passenger experience.
